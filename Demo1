@@ -1,6 +1,10 @@
 class 
 {
-	PSVM(String args[])
-	}:wq
+	Public static main (String args[])
+	{
+		SOP("HEllo world");
+	}
+
+}
 
 
